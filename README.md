@@ -10,7 +10,7 @@
 - 📫 How to reach me **puneetsharma5525@gmail.com**
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetsharma5525&label=Profile%20views&color=0e75b6&style=flat" alt="puneetsharma5525" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realpuneetsharma&label=Profile%20views&color=0e75b6&style=flat" alt="realpuneetsharma" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,13 +27,13 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneetsharma5525&theme=juicyfresh" alt="puneetsharma5525" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realpuneetsharma&theme=juicyfresh" alt="realpuneetsharma" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneetsharma5525&show_icons=true&locale=en&layout=compact&theme=dark" alt="puneetsharma5525" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realpuneetsharma&show_icons=true&locale=en&layout=compact&theme=dark" alt="realpuneetsharma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneetsharma5525&show_icons=true&locale=en&theme=dark" alt="puneetsharma5525" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realpuneetsharma&show_icons=true&locale=en&theme=dark" alt="realpuneetsharma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetsharma5525&theme=dark" alt="puneetsharma5525" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realpuneetsharma&theme=dark" alt="realpuneetsharma" /></p>
 
 
 
